@@ -23,5 +23,33 @@ ahmed weight = 95              # has a space
 sarah@ahmed = 10              # has a special chatacter
 sum = 55                                # using a preserved word
 
+# correct but not in allign with python conventions
+My_age = 26         # Starts with capital        variables shouldn't start with capital letters 
+MyAge = 26          # Starts with capital        variables shouldn't start with capital letters 
+
+print("Hello world")
+my_name = "Musab"       # Double quotes
+my_name = 'Musab'        # Single quotes
 
 
+# - comments
+# This is a single line comment
+"This is a single line comment "
+'This is a single line comment'
+
+'''This
+is
+a multiple line
+comment'''
+
+"""
+This is
+a ultiple
+line comment
+"""
+
+
+# output and input functions:
+#output:
+print("This is My birthday")
+input("please Enter your name here: ")
